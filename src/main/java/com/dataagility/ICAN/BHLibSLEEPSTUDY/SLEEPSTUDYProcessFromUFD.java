@@ -12,6 +12,7 @@ import java.net.URL;
 import java.net.URLConnection;
 
 /**
+ * Process HL7 message from UFD topic to be used in Sleep Study department.
  * @author mdeguzman
  */
 public class SLEEPSTUDYProcessFromUFD extends ProcessSegmentsFromUFD {
